@@ -4,6 +4,7 @@ body{background-color: #505050;}
     background-color: rgb(41, 39, 39);
     color: rgb(163, 163, 163);
     margin: 10px;
+    justify-content: space-around;
     width: 10;
     justify-content: center;
 }
