@@ -5,6 +5,7 @@ body{background-color: #505050;}
     color: rgb(163, 163, 163);
     margin: 10px;
     justify-content: space-around;
+    align-items: center;
     width: 10;
     justify-content: center;
 }
