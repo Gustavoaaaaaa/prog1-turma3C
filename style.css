@@ -1,12 +1,17 @@
+*{
+    margin: 0%;
+    padding: 1%;
+}
+
 body{background-color: #505050;}
 
 .cacalho{
     background-color: rgb(41, 39, 39);
     color: rgb(163, 163, 163);
-    margin: 10px;
     justify-content: space-around;
     align-items: center;
-    width: 10;
+    padding: 25px;
+    display: flex;
 }
 
 .sub{
